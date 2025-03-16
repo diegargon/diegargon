@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?diegargon=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegargon&hide_progress=true)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
